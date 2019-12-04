@@ -1,0 +1,4 @@
+export default {
+  "user": "your_user_name",
+  "pass": "your_password"
+}
