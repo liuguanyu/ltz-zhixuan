@@ -6,11 +6,11 @@ download ltz-zhixuan contract pdf and project and debt desc screenshot
 
 1.npm install 
 
-1.input your name and password in user.mjs.example
+2.input your name and password in user.mjs.example
 
-1.rename user.mjs.example to user.mjs
+3.rename user.mjs.example to user.mjs
 
-1.npm start
+4.npm start
 
 ### note
 
