@@ -16,6 +16,6 @@ download ltz-zhixuan contract pdf and project and debt desc screenshot
 
 It is only a convenient tool, and I can't maintain it all the time. Perhaps you can edit it as you like .
 
-you mustnot use it to do bad things, If you want to violate the principle indeed. It has nothing to do with me.
+You **MUST NOT** do bad things with it. If you want to violate the principle indeed. It has nothing to do with me.
 
 
