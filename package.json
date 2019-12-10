@@ -5,12 +5,13 @@
   "main": "index.js",
   "author": "",
   "license": "MIT",
+  "type": "moudule",
   "dependencies": {
     "puppeteer": "^2.0.0",
     "request": "^2.88.0"
   },
   "scripts": {
-    "start": "node --experimental-modules ./index.mjs",
+    "start": "node --experimental-modules --es-module-specifier-resolution=node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
